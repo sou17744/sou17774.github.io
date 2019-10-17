@@ -1,0 +1,42 @@
+body {
+	margin-left: 100px;
+	margin-top: 100px;
+	background-color: lightblue;
+}
+
+img {
+	display: inline;
+	width: 300px;
+	border: 10px solid yellow;
+}
+h1 {
+	display: inline;
+	position: absolute;
+	left: 500px;
+	top: 100px;
+}
+p {
+	position: absolute;
+	white-space: pre;
+	left: 350px;
+	top: 160px;
+	font-size: 14px;
+	white-space: pre;
+}
+table {
+	position: absolute;
+	left: 500px;
+	top: 300px;
+	border: 1px solid black;
+	width: 400px;
+	border-spacing: 0;
+}
+td {
+	border: 1px solid black;
+}
+
+.vvv {
+	position: absolute;
+	left: 500px;
+	top: 450px;
+}
